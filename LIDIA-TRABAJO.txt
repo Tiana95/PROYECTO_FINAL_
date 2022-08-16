@@ -1,0 +1,11 @@
+(8/8/22 - 17/8/22)
+---JAVASCRIPT---
+HTML - CSS - BOOTSTRAP 
+A. Registro y acceso a la aplicación. (usuario - contraseña).Investigación  sistema de uusatrios 
+B. B. Envío de mensajería a un correo (formulario). ENVIAR UN CORREO A TRAVES DE UN FORMULARIOS
+
+*****************************************************************************
+
+En el archivo bootstrap_e_imagenes_modales se encuentran las carpetas del framework boostrap 
+e imaganes tambien se encuentra la libreria sweet2 e imagenes utilizadas en el proyecto por 
+lo que se tendra que descargar el archivo .zip y descomprimirlo.
